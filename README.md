@@ -1,6 +1,8 @@
 # FootMaskApp
 Finding rotation of motion angle of the ankle with MaskRCNN (https://github.com/matterport/Mask_RCNN) and with some image processing techniques.
 
+![Refined Instance Segmentation](assets/segmentation.png)
+![ROM Angle Measurement](assets/measurement.png)
 ## Requirements
 Python 3.4, TensorFlow 1.3, Keras 2.0.8 and other common packages listed in `requirements.txt`.
 
